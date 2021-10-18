@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "669886213069",
+    "project_id": "steamwashisolna",
+    "storage_bucket": "steamwashisolna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669886213069:android:ed7525dd4857d21e897284",
+        "android_client_info": {
+          "package_name": "com.art.art.steam_wash_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669886213069-ph2j6l743krc2r4glli78mb9crodl1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9G9PwXxV348yM6QqjYiKcsi3jxUQdlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669886213069-ph2j6l743krc2r4glli78mb9crodl1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669886213069:android:0ff1b31d37fb9b85897284",
+        "android_client_info": {
+          "package_name": "com.art.art.steam_wash_i_solna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669886213069-ph2j6l743krc2r4glli78mb9crodl1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9G9PwXxV348yM6QqjYiKcsi3jxUQdlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669886213069-ph2j6l743krc2r4glli78mb9crodl1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
