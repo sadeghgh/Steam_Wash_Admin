@@ -105,7 +105,7 @@ class _DescriptionState extends State<Description> {
               Padding(
                 padding: EdgeInsets.only(top: 40),
                 child: Text(
-                  'Från ' + widget.data['price'] + '  00 kr',
+                  widget.data['price'] + ' sek',
                   style: TextStyle(
                       fontSize: 25,
                       fontWeight: FontWeight.bold,
